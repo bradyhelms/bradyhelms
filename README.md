@@ -4,8 +4,8 @@ Cloud engineer working on infrastructure, networking, and systems.
 
 ## Stack
 
-Python, C/C++, Terraform, Azure
+Python, Golang, Cisco Meraki, Azure
 
 ## Interests
 
-Distributed systems, HPC, networking
+Networking, Site Reliability, Infrastructure
