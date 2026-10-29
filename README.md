@@ -4,7 +4,7 @@ Cloud engineer working on infrastructure, networking, and systems.
 
 ## Stack
 
-Python, Golang, Cisco Meraki, Azure
+Python, Go, Cisco Meraki, Azure
 
 ## Interests
 
